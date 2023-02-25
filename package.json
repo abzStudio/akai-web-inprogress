@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@niftykit/components": "^0.0.28",
+    "dropkit.js": "^0.0.20"
+  }
+}
